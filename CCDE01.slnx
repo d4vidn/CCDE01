@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="CCDE01.Infrastructure/CCDE01.Infrastructure.csproj" />
+  <Project Path="CCDE01.Server/CCDE01.Server.csproj" />
   <Project Path="CCDE01.Web/CCDE01.Client.csproj" />
 </Solution>
