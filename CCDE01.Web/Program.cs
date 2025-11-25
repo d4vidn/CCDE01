@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
-namespace CCDE01.Web
+namespace CCDE01.Client
 {
     public class Program
     {
