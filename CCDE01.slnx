@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CCDE01.Client/CCDE01.Client.csproj" />
+  <Project Path="CCDE01.Core/CCDE01.Core.csproj" />
+  <Project Path="CCDE01.Server/CCDE01.Server/CCDE01.Server.csproj" />
+</Solution>

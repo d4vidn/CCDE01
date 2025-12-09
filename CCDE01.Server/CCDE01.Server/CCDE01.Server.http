@@ -1,0 +1,6 @@
+@CCDE01.Server_HostAddress = http://localhost:5097
+
+GET {{CCDE01.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
